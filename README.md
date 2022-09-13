@@ -1,2 +1,2 @@
 # firstprojectJS
-My first project using JavaScript
+My first project using JavaScript!
